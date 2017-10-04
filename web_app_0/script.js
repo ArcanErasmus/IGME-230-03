@@ -44,3 +44,4 @@
 // console.log(sum.toFixed(2)); // 99.98
 // console.log(name.length); // 4
 // console.log(isLoggedIn.toString()); // "false"
+
