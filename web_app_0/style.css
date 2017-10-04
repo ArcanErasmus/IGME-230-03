@@ -1,9 +1,0 @@
-/*Reset styling on different browsers*/
-* { margin: 0; padding: 0; }
-
-main
-{
-    background-image: url();
-    background-repeat: no-repeat;
-    background-position: center;
-}
